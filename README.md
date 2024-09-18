@@ -2,7 +2,7 @@
 A simple, yet versatile tool designed for fetching the publicly available data of AURAK professors.
 
 # Preview
-[![Preview](https://github.com/theAbdoSabbagh/AURAKProfessorDataFetcher/raw/main/preview/preview.mp4)](https://github.com/theAbdoSabbagh/AURAKProfessorDataFetcher/raw/main/preview/preview.mp4)
+Check the video under the `preview` folder.
 
 # Usage
 1. Install the required packages using the following command:
